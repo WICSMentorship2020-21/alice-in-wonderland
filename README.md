@@ -1,2 +1,2 @@
-# Starter Website
-Starter website for each mentorship family to initially clone. You can find the walkthroughs in the walkthroughs folder :)
+# Alice in Wonderland
+Welcome to our mentorship family's wonderland. Join us as we fall down the rabbit hole of trying to make this website the best one out there :)
